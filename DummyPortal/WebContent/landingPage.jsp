@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome... to the portal.
+Welcome... to the portal...
 </body>
 </html>
