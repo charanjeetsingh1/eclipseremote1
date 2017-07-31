@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-Welcome... to the portal. <br>
+Welcome... to the portal... <br>
 Menu:
-=======
-Welcome... to the portal...
->>>>>>> eclipseremote1_branch1
 </body>
 </html>
