@@ -39,7 +39,7 @@ public class LoginServlet extends HttpServlet {
 			response.sendRedirect("login.jsp");
 			return;
 		}
-		// subtracting...
+		// subtracting....
 		request.setAttribute("result", (num1 - num2));
 		request.getRequestDispatcher("landingPage.jsp").forward(request, response);
 		//request.forw("landingPage.jsp");
