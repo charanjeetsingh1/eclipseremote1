@@ -13,6 +13,11 @@ function func(){
 
 </head>
 <body>
-<input type = "button" value = "Login" onClick = "func()"/>
+
+<form action = "LoginServlet">
+Number 1 <input type = "field" name = "number1">
+Number 2 <input type = "field" name = "number2">
+<input type = "submit" value = "Submit">
+</form>
 </body>
 </html>

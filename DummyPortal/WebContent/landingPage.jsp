@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome... to the portal...
-Menu:-
+Welcome... to the portal... <br>
+
+Its - <% 
+out.print(request.getAttribute("result"));%>
+
+<a href = "login.jsp">Go back</a>
 </body>
 </html>
